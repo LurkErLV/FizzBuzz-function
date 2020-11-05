@@ -2,7 +2,7 @@
 
 **how to use?**
 
-For console log:
+For console log: \n
   console.log(fizzBuzz(begin,end);
   
 For return:
