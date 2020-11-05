@@ -1,2 +1,4 @@
-# FizzBuzz-function
-FizzBuzz Function
+# FizzBuzz Function
+
+**how to use?**
+
