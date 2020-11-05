@@ -14,7 +14,7 @@ console.log(fizzBuzz(13, 20))
   Example output:
   
 1.  **11**
-2.  **Fizz
+2.  **Fizz**
 3.  **13**
 4.  **14**
 5.  **FizzBuzz**
